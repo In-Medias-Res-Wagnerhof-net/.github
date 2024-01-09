@@ -1,4 +1,4 @@
-# In Medias Res (privat)
+# In Medias Res
 Source Code für das das Masterarbeitsprojekt einer semantischen Suche für das Gesamtwerk von Immanuel Kant.
 
 Enthalten sind:
