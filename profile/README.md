@@ -3,7 +3,7 @@ Source Code für das das Masterarbeitsprojekt einer semantischen Suche für das 
 
 [Link](http://www.in-medias-res.wagnerhof.net)
 
-[temporärer Link](http://www.in-medias-res.wagnerhof.net](http://138.201.94.48/plesk-site-preview/in-medias-res.wagnerhof.net/https/172.31.1.100)
+[temporärer Link](http://138.201.94.48/plesk-site-preview/in-medias-res.wagnerhof.net/https/172.31.1.100)
 
 ---
 
