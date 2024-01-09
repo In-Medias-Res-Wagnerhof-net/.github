@@ -1,16 +1,15 @@
 # In Medias Res
 Source Code für das das Masterarbeitsprojekt einer semantischen Suche für das Gesamtwerk von Immanuel Kant.
 
+---
+
 Enthalten sind:
 
-Django
-: Dajngo Projekt
+- Django: Dajngo Projekt
+- Vorbereitung: Dateien zur Modellerstellung und Datenverarbeitung
+- Trivia: Sonstige Informationen
 
-Vorbereitung
-: Dateien zur Modellerstellung und Datenverarbeitung
-
-Trivia
-: Sonstige Informationen
+---
 
 ## Djangoprojekt
 
@@ -56,19 +55,15 @@ Seite zum aufzeigen der Ergebnisse:
     - Sucheingabe als Überschrift
     - Angabe des Zielbandes (bisher hardcodiert auf 1)
 
+---
+
 ## Dateien zur Modellerstellung und Datenverarbeitung
 
 Dateien mit Daten und Skripten zum Training und Vorbereiten der Daten.
 
-Daten
-: Daten die nötig sind für die Suche.
-: Kantkorpus wird vorerst mittels .gitignore nicht geteilt
-
-Modelle
-: NLP-Modelle
-
-Skripte
-: Skripte zur Vor- und Verarbeitung der Daten
+- Daten: Daten die nötig sind für die Suche. ! Kantkorpus wird vorerst mittels .gitignore nicht geteilt
+- Modelle: NLP-Modelle
+- Skripte: Skripte zur Vor- und Verarbeitung der Daten
 
 
 ### Daten
@@ -90,14 +85,11 @@ Es wurden folgende Modelle lokal installiert:
 
 ### Skripte
 
-Textprozess.py
-: Vorbereitung des Korpus für die Ausgabe.
+- Textprozess.py: Vorbereitung des Korpus für die Ausgabe.
+- Training.py: Training der Modelle mithilfe des Kantkorpus.
+- Vektoren-Test.py: Test der Modelle und Erstellung der Vektoren zu dem in Textprozess vorbereiteten Korpus.
 
-Training.py
-: Training der Modelle mithilfe des Kantkorpus.
-
-Vektoren-Test.py
-: Test der Modelle und Erstellung der Vektoren zu dem in Textprozess vorbereiteten Korpus.
+---
 
 ## Trivia
 
